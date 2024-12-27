@@ -1,3 +1,5 @@
+![online](https://raw.githubusercontent.com/0kan87/online/refs/heads/main/screenshot.png)
+
 Programı .exe olarak derleyeceğiz. 
 
 Bu GUI uygulamasını exe'ye çevirmek için şu adımları izleyelim:
